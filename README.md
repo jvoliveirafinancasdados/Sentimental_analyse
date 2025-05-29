@@ -1,6 +1,4 @@
-Here's a comprehensive README.md file for your Git repository:
 
-```markdown
 # Twitter Sentiment Analysis
 
 A Python script for analyzing sentiment in Twitter data using Natural Language Processing (NLP) techniques.

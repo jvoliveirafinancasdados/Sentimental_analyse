@@ -92,30 +92,28 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Example Output
 
-![Sample Visualization](twitter_sentiment_analysis.png)
-```
+## Análise de Sentimento de Tweets
 
-### Additional Recommendations:
+**Total de Tweets:** 2478
 
-1. Create a `requirements.txt` file with:
-```
-pandas
-numpy
-matplotlib
-seaborn
-wordcloud
-nltk
-textblob
-```
+**Distribuição:**
+| Sentimento   |   count |
+|:-------------|--------:|
+| Negativo     |    1525 |
+| Positivo     |     517 |
+| Neutro       |     436 |
 
-2. Consider adding:
-- A `.gitignore` file for Python
-- A LICENSE file
-- A directory for sample output files
-- Jupyter Notebook version for interactive exploration
 
-3. For a more professional setup, you might want to:
-- Package the code as a Python module
-- Add unit tests
-- Set up CI/CD pipelines
-- Create documentation with Sphinx
+### Médias de Sentimentos
+
+|          |     Média |
+|:---------|----------:|
+| Positive | 0.0985024 |
+| Negative | 0.243281  |
+| Neutral  | 0.657816  |
+
+
+## Image generated 
+
+![twitter_sentiment_analysis](https://github.com/user-attachments/assets/b69255f5-2c73-404a-86a8-ea71da63e086)
+

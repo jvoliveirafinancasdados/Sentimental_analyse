@@ -1,7 +1,7 @@
-pandas
-numpy
-matplotlib
-seaborn
-wordcloud
+streamlit
 nltk
-textblob
+pandas
+matplotlib
+numpy
+wordcloud
+deep-translator
